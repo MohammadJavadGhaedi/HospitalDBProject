@@ -33,29 +33,26 @@ This project is a hospital management system developed as part of a database cou
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-### 🔹 ثبت نام بیمار جدید
-![فرم ثبت نام بیمار جدید](./فرم ثبت نام بيمار جديد.png)
-
-### 🔹 مدیریت بیماران (ویرایش / حذف)
-![مدیریت بیماران](./مديريت بيماران.png)
-
-### 🔹 ثبت نوبت جدید برای بیمار
-![ثبت نوبت جدید برای بیمار](./ثبت نوبت جديد براي بيمار.png)
-
-### 🔹 نمایش لیست نوبت‌ها با اطلاعات کامل بیمار و پزشک
-![لیست نوبت‌ها با JOIN](./نمايش ليست نوبت ها با اطلاعات کامل بيمار و پزشک.png)
-
-### 🔹 اجرای کوئری SELECT در SQL Server
+### 🟢 SELECT Query in SQL Server
 ![SELECT](./SELECT.png)
 
-### 🔹 اجرای کوئری INSERT در SQL Server
+### 🟢 INSERT Query in SQL Server
 ![INSERT](./INSERT.png)
 
-### 🔹 اجرای کوئری UPDATE در SQL Server
+### 🟡 UPDATE Query in SQL Server
 ![UPDATE](./UPDATE.png)
 
+### 🧑‍⚕️ Patient Management Panel
+![Patient management](./Patient%20management.png)
+
+### 📅 Registering a New Appointment
+![Registering a new appointment for a patient](./Registering%20a%20new%20appointment%20for%20a%20patient.png)
+
+### 🆕 New Patient Registration Form
+![New patient registration form](./New%20patient%20registration%20form.png)
+
+### 📄 Appointments List (with JOIN)
+![Display a list of appointments with complete patient and doctor information](./Display%20a%20list%20of%20appointments%20with%20complete%20patient%20and%20doctor%20information.png)
 
 ## 📄 License
 
